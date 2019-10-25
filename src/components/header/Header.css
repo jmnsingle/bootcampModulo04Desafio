@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111212;
+  padding: 10px 10px;
+  color: #fff;
+  height: 60px;
+}
+.logo-face {
+  color: white;
+}
+.icon {
+  display: flex;
+  align-items: center;
+}
+.icon p{
+  padding: 0 20px 0 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+.icon img {
+  height: 35px; 
+  width: 35px;
+  color:#fff;
+  margin-right: 20px;
+}
